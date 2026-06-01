@@ -5,8 +5,8 @@ This repository contains the proposal and prototype for adding a **P2P Car Renta
 ## 📌 Team Details
 - **Team Name:** CIPHER  
 - **Members:**  
-  - Anushka Aarushi (2505530)  
-  - Adrija Mandal (2505385)  
+  - Adrija Mandal (2505385)    
+  - Anushka Aarushi (2505530)
   - Ansh Sahay (23052625)  
 
 ## 🎯 Problem Statement
